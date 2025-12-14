@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4b9237b4.css",
-    "main.js": "/static/js/main.25e65f22.js",
+    "main.js": "/static/js/main.d7215735.js",
     "static/media/bg.jpg": "/static/media/bg.5a0bb108a46e149d1714.jpg",
     "static/media/checkout.gif": "/static/media/checkout.9e4de295354c7f1029c1.gif",
     "static/media/mysore_pak.webp": "/static/media/mysore_pak.c4e637717582c8c6db1a.webp",
@@ -15,10 +15,10 @@
     "static/media/logo.webp": "/static/media/logo.7b0c27b779839070527a.webp",
     "index.html": "/index.html",
     "main.4b9237b4.css.map": "/static/css/main.4b9237b4.css.map",
-    "main.25e65f22.js.map": "/static/js/main.25e65f22.js.map"
+    "main.d7215735.js.map": "/static/js/main.d7215735.js.map"
   },
   "entrypoints": [
     "static/css/main.4b9237b4.css",
-    "static/js/main.25e65f22.js"
+    "static/js/main.d7215735.js"
   ]
 }
